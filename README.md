@@ -1,5 +1,5 @@
 <!-- Banner / Header -->
-<h1 align="center">⚡️👾 Welcome to the Grid — I'm <YOUR NAME> 👾⚡️</h1>
+<h1 align="center">⚡️👾 Welcome to the Shell — I'm Rosalyn 👾⚡️</h1>
 <p align="center">Information Technology (Cybersecurity) Student @ Arizona State University (Online)</p>
 
 ---
@@ -56,17 +56,6 @@ Right now, I’m focused on three core goals:
 📖 **Getting back to school** to continue advancing through my IT/Cyber program  
 🗂 **Growing my portfolio** as I learn new topics and develop more technical depth  
 
-My approach: steady improvement, deeper understanding, and building real things.
-
----
-
-## 🔍 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<YOUR_GITHUB_USERNAME>&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_GITHUB_USERNAME>&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
-
 ---
 
 ## 📡 **Connect / Collaborate**
@@ -74,4 +63,4 @@ If you want to talk cybersecurity, work on programming projects, or explore rese
 
 ---
 
-<h3 align="center">⚡️ “Build. Secure. Implement” ⚡️</h3>
+<h3 align="center">⚡️ “Aedificamus Munimus et Implementamus” ⚡️</h3>

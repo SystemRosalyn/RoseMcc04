@@ -1,9 +1,2 @@
-# 👋 Hi, I’m **@RoseMcc04**.
-
-- 👀 I’m deeply interested in **Computer Systems**, **DevOps**, **Cybersecurity**, and **Computer Networking**. 
-- 🌱 Currently, I’m working on my mental health.
-- 💞️ My current passion project is **N/A**
-- Current Personal Repositorie(s):
-- 📫 Reach me at: **sammack04@gmail.com**.
-- 🏳️‍⚧️ Pronouns: **she/her/hers**.
-- ⚡ Fun fact: If you look at my birthday, the digits 08 for month, 02 for day, and 04 for the year, you can say that 8 / 2 = 4.
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode)](https://github.com/Jurredr/github-widgetbox)
